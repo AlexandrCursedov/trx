@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+apt update -y
+apt upgrade -y
 set -e
 sudo apt update -y
 sudo apt install -y curl ca-certificates gnupg
