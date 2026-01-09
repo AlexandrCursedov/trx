@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "bip39": "^3.1.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "telegraf": "^4.16.3",
+    "tronweb": "^6.1.1",
+    "tronweb-tool": "^5.4.2"
+  }
+}
